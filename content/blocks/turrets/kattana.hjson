@@ -41,7 +41,6 @@ drawer: {
       moves: [
         y:-2
         x:-4
-        }
         {
       suffix: -b
       under: true
@@ -51,7 +50,6 @@ drawer: {
       moves: [
         y:2
         x:4
-        }
         {
       suffix: -b
       under: true
@@ -61,7 +59,6 @@ drawer: {
       moves: [
         y:2
         x:-4
-        }
         {
       type: RegionPart
       suffix: -side
@@ -72,7 +69,6 @@ drawer: {
       moves: [
         y:-4
         x:2
-        }
         {
    type: RegionPart
       suffix: -side
