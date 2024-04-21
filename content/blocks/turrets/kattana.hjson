@@ -258,14 +258,7 @@ ammoTypes: {
                 killShooter: false
                 splashDamage: 70
                 splashDamageRadius: 12
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-  carbide: {
+    carbide: {
     ammoMultiplier: 3
     type: ArtilleryBulletType
     trailChance: -1
