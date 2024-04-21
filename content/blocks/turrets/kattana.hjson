@@ -339,4 +339,6 @@ ammoTypes: {
                 killShooter: false
                 splashDamage: 84
              ]
-             }
+            }
+           ]
+          }
