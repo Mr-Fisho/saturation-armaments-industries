@@ -178,14 +178,7 @@ ammoTypes: {
                 splashDamageRadius: 12
                 killShooter: false
                 splashDamage: 42
-
-            }
-          }
-        }
-      }
-    }
-  }
-  tungsten: {
+    tungsten: {
     ammoMultiplier: 2
     type: ArtilleryBulletType
     trailChance: -1
