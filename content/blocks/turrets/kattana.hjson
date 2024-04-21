@@ -338,3 +338,4 @@ ammoTypes: {
                 splashDamageRadius: 12
                 killShooter: false
                 splashDamage: 84
+             ]
