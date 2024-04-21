@@ -79,7 +79,6 @@ drawer: {
       moves: [
         y:-4
         x:-2
-        }
       ]
     }
     {
@@ -90,7 +89,6 @@ drawer: {
       progress: recoil
       mover: [
         y:-2
-        }
       ]    
     }
   ]
